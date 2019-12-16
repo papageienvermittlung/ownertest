@@ -1,0 +1,8 @@
+#
+
+*       @kyroy
+
+*.js    @papageienvermittlung
+*.go    @kyroy
+
+CODEOWNERS @papageienvermittlung
